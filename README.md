@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devraj%20Kanki&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Student&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devraj%20Kanki&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20AI%20%26%2338%3B%20Data%20Science%20Student&descAlignY=55&descSize=20"/>
 
 </div>
 
@@ -79,7 +79,11 @@ Hi 👋, I'm **Devraj Kanki**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sql,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
