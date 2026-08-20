@@ -135,9 +135,9 @@ Hi 👋, I'm **Devraj Kanki**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevrajK1226&theme=github_dark&show_icons=true&hide_border=true" width="48%"/>
+<img src="./profile/stats.svg" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevrajK1226&theme=github_dark&hide_border=true&layout=compact" width="40%"/>
+<img src="./profile/top-langs.svg" width="40%"/>
 
 <br><br>
 
