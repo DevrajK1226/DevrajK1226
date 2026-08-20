@@ -79,7 +79,7 @@ Hi 👋, I'm **Devraj Kanki**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sql,mysql" />
 
 </div>
 
