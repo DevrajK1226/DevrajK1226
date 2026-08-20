@@ -14,8 +14,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
       - name: Generate Stats Card
-        uses: gauravu2003/github-readme-stats-action@v1
+        uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: stats
           options: "username=DevrajK1226&theme=github_dark&show_icons=true&hide_border=true"
@@ -23,7 +26,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages Card
-        uses: gauravu2003/github-readme-stats-action@v1
+        uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
           options: "username=DevrajK1226&theme=github_dark&hide_border=true&layout=compact"
